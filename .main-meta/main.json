@@ -51,7 +51,10 @@
             "TCA"
         ],
         "keywords": [
-            "Bare Metal"
+            "Bare Metal",
+            "Getting Started",
+            "Interrupts",
+            "Periodical Signal"
         ],
 		"additionalData": {
 			"longDescription": {
