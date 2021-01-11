@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-tca-studio",
         "version": "1.0.0",
-        "displayName": "Getting Started with Timer/Counter Type A (TCA) Examples (Microchip Studio)",
+        "displayName": "Getting Started with Timer/Counter Type A (TCA)",
         "projectName": "atmega4809-getting-started-with-tca-studio",
         "shortDescription": "This repository contains examples of bare metal source code for Timer/Counter Type A (TCA), as described in the TB3217-Getting Started with Timer/Counter Type A (TCA) document.",
         "ide": {
