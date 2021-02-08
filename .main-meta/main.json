@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-tca-studio",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Timer/Counter Type A (TCA)",
         "projectName": "atmega4809-getting-started-with-tca-studio",
         "shortDescription": "This repository contains examples of bare metal source code for Timer/Counter Type A (TCA), as described in the TB3217-Getting Started with Timer/Counter Type A (TCA) document.",
@@ -14,7 +14,7 @@
         },
         "compiler": [
 			{
-				"name": "avr-gcc",
+				"name": "AVR GCC",
 				"semverRange": "^5.4.0"
 			}
 		],
@@ -41,10 +41,6 @@
             [
                 "Peripherals",
                 "TCA"
-            ],
-            [
-                "Development Kit",
-                "ATmega4809 Xplained Pro"
             ]
         ],
         "peripherals": [
@@ -53,7 +49,6 @@
         "keywords": [
             "Bare Metal",
             "Getting Started",
-            "Interrupts",
             "Periodical Signal"
         ],
 		"additionalData": {

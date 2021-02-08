@@ -8,7 +8,7 @@ This code example shows how to initialize the Timer/Counter Type A (TCA) in Spli
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:
-- [TB3217-Getting Started with Timer/Counter Type A (TCA)](http://ww1.microchip.com/downloads/en/Appnotes/TB3217-Getting-Started-with-TCA-90003217A.pdf)
+- [TB3217-Getting Started with Timer/Counter Type A (TCA)](https://ww1.microchip.com/downloads/en/Appnotes/TB3217-Getting-Started-with-TCA-DS90003217.pdf)
 - [ATMEGA4809 Product Page](https://www.microchip.com/wwwproducts/en/ATMEGA4809)
 - [ATMEGA4809 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=atmega4809)
 - [ATMEGA4809 Project Examples in START](https://start.atmel.com/#examples/ATMEGA4809XplainedPro)
